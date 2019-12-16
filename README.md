@@ -1,3 +1,3 @@
 # blenderpython
 
-This script will create a cube animation in blender.
+This codes are for scripted animation in blender.
